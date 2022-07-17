@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+## Project name
+Career Guidance
+​
+## Project description
+A website that will help students make career decisions based on their career interests. 
 
-You can use the [editor on GitHub](https://github.com/yamalakumar/yamalakumar.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Author(s) information
+  -Kumar
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  
+## ABSTRACT
+   Career guidance system can build the path to find an informative guide. Prior to the recommendation system, it was a life of utter confusion as to which course could give relevant career. And people are not able to get customary feedback on a particular course. The application prepares the college list as per the entrance examination marks and the eligibility criteria of colleges and the courses chosen. The college list is filtered based on parameters like institution ranking, fee limits and location chosen. Desktop Application for Career Guidance The registration to selected college involves student extensive details and Aptitude Test (AT). The Aptitude Test is multiple choice question (MCQ) based and includes verbal section, quantitative section and general knowledge. The application will help the students to get the most appropriate college and the course in the field of their interest in India or abroad.
+   
+   The application can be used by students and parents as it provides complete details of colleges like tuition and accommodation fees, eligibility criteria, campus placement opportunities, accommodation facilities, scholarship schemes, campus support services, rules and regulations etc. It helps students to select colleges in engineering and management field in India and abroad based on the factors like qualifying exam details, technical expertise and other details. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Keywords:
+ Javascript, career guidance, desktop application
 
-# Header 1
-## Header 2
-### Header 3
+## Existing System:
+Choosing of career paths for students from their early stages of secondary school and thereafter As they join institutions of higher learning has had its inadequacies as most of these students lack  Adequate information such as personality characteristics and proper information of the nature of  Work in a certain career.
 
-- Bulleted
-- List
+## Proposed Method:
+In proposed word we introduce the desktop application to help the persons who are willing to choose their career paths based on their skills.
+Here admin will add some of the colleges those who will add questions to check the user performance by which user can able to check their performances. This application makes easier to a user to keep a check on their skills. 
 
-1. Numbered
-2. List
+## Advantages:
+ -Users should be able to sign up.
+ - Users should be able to choose their career interests. 
+ - Users should be able to see  a list of courses they can pursue under their career interest. 
+ - Users should be able to see a  list of  the best universities that offer the courses they want to pursue together with the cost of tuition fees.
+ - Users should be able to see a list of certifications that will help strengthen their skills in the specific career interests. 
+ - Users should be able to see external links to  useful resources that will help them in making their decision. 
 
-**Bold** and _Italic_ and `Code` text
+ ## Disadvantages:
+⦁	Students facing problems with lake of knowledge.
+⦁	Student struggling with carrier guidance issue.
 
-[Link](url) and ![Image](src)
-```
+   
+## ADMIN:
+   To access this project on your local files, you can clone it using these steps
+   Open your terminal
+   Use this command to clone `$ git clone
+   
+   This will clone the repositoty into your local folder 
+​
+## Project Flow:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+    
+​ 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yamalakumar/yamalakumar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    
+  
+## Live link
+[Career Guidance](/)
+​
+## Technologies used
+ - HTML
+ - CSS
+ - JS
+ - Javascript
+ - Bootstrap
+  
+## Contact information
+[Email](yamalakumar2623@gmail.com)
+[Phone](9553223895)
+    
