@@ -5,7 +5,7 @@ Career Guidance
 A website that will help students make career decisions based on their career interests. 
 
 ## Author(s) information
-  -Kumar
+  -Yamala Kumar, Register Number : 1881951053, B.Tech:CSE,Dr.BR.AMBEDKAR UNIVERSIY, SRIKAKULAM,AP-532410
 
   
 ## ABSTRACT
@@ -42,7 +42,7 @@ Here admin will add some of the colleges those who will add questions to check t
    To access this project on your local files, you can clone it using these steps
    Open your terminal
    Use this command to clone `$ git clone
-   https://github.com/yamalakumar/yamalakumar.github.io/new/main?readme=1
+   https://github.com/yamalakumar/yamalakumar.github.io
    This will clone the repositoty into your local folder 
 ​  
   
@@ -58,5 +58,7 @@ Here admin will add some of the colleges those who will add questions to check t
   
 ## Contact information
 [Email:yamalakumar2623@gmail.com]
-[Phone:9553223895]
+[Phone: 9553223895]
     
+ ## Mentor
+ Asst.Professor, Dept.of.CSE - B.Vysageetha
