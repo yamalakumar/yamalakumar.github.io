@@ -35,14 +35,15 @@ Here admin will add some of the colleges those who will add questions to check t
 
  ## Disadvantages:
 ⦁	Students facing problems with lake of knowledge.
+
 ⦁	Student struggling with carrier guidance issue.
 
    
 ## ADMIN:
-   To access this project on your local files, you can clone it using these steps
+   -To access this project on your local files, you can clone it using these steps
    Open your terminal
    Use this command to clone `$ git clone
-   https://github.com/yamalakumar/yamalakumar.github.io
+   https://github.com/yamalakumar/yamalakumar.github.io.git
    This will clone the repositoty into your local folder 
 ​  
   
