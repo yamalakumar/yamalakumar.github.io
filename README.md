@@ -57,6 +57,6 @@ Here admin will add some of the colleges those who will add questions to check t
  - Bootstrap
   
 ## Contact information
-[Email](yamalakumar2623@gmail.com)
-[Phone](9553223895)
+[Email:yamalakumar2623@gmail.com]
+[Phone:9553223895]
     
